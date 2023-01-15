@@ -1,0 +1,52 @@
+.classa{
+    border: 0px solid   black;
+    height: 200px;
+    width: 1900px;
+}
+.classb{
+    border: 0px solid   black;
+    height: 200px;
+    width: auto;
+    font-size: x-large;
+    font-weight: 600;
+    margin-top: 60px;}
+.flex{
+ display: flex;
+}
+.year{
+    border: 0px solid black;
+    display: inline;
+    width: 0.25;
+}
+
+.des{
+    display: inline;
+    padding: 20px;
+    width: 1000px;
+    padding-bottom: auto;
+}
+.as{
+   margin-left: 60px;
+    padding: 60px;
+    padding: 0px;
+    margin-bottom: 60px
+}
+.desdown{
+
+    margin-left: 69px;
+    display: inline;
+
+}
+.last{
+    margin-left: 140px;
+margin-bottom: 20px;
+padding-bottom: auto;
+display: flex
+}
+
+p{
+display: inline;
+margin: auto;
+margin-bottom: 10px;
+
+}
